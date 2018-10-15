@@ -1,0 +1,14 @@
+{
+  "name": "finddit",
+  "version": "1.0.0",
+  "description": "Reddit Searching App",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "Kelvin Wong",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
